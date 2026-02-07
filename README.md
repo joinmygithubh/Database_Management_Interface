@@ -4,7 +4,7 @@ A full-stack database management application with complete CRUD operations, buil
 
 ----
 
-### deployed url - https://thedmi.netlify.app/
+### deployed url - https://database-management-interface.netlify.app/
 
 ## Features
 
